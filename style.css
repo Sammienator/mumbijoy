@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Birthstone&display=swap");
+
+nav,
+.navbar-brand,
+#btn1 {
+  background: orange;
+  font-family: "Beau Rivage", cursive;
+  font-size: 30px;
+}
+#btn2 {
+  font-family: "Beau Rivage", cursive;
+  font-size: 30px;
+}
+.featurette-heading,
+.row-featurette {
+  text-align: center;
+}
+h2 {
+  font-weight: bolder;
+  text-transform: capitalize;
+  font-style: italic;
+  font-family: "Beau Rivage", cursive;
+  font-size: 42px;
+}
+div p {
+  font-family: "Birthstone", cursive;
+  font-size: 50px;
+}
+#myCarousel {
+  margin-top: 10px;
+}
+.ore {
+  color: orange;
+}
+footer,
+h5,
+h4 {
+  font-family: "Birthstone", cursive;
+}
