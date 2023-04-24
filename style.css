@@ -1,16 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap");
 
-@import url("https://fonts.googleapis.com/css2?family=Birthstone&display=swap");
 
+@import url('https://fonts.googleapis.com/css2?family=Medula+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&display=swap');
 nav,
 .navbar-brand,
 #btn1 {
   background: orange;
-  font-family: "Beau Rivage", cursive;
+  font-family: 'Medula One', cursive;
   font-size: 30px;
 }
 #btn2 {
-  font-family: "Beau Rivage", cursive;
+  font-family: 'Medula One', cursive;
   font-size: 30px;
 }
 .featurette-heading,
@@ -21,12 +22,12 @@ h2 {
   font-weight: bolder;
   text-transform: capitalize;
   font-style: italic;
-  font-family: "Beau Rivage", cursive;
-  font-size: 42px;
+  font-family: 'Medula One', cursive;
+  font-size: 30px;
 }
 div p {
-  font-family: "Birthstone", cursive;
-  font-size: 30px;
+  font-family: 'Cardo', serif;
+  font-size: 25px;
 }
 #myCarousel {
   margin-top: 10px;
@@ -38,6 +39,6 @@ footer,
 h5,
 h4,
 .btn {
-  font-family: "Birthstone", cursive;
+  font-family: 'Medula One', cursive;
   font-size: 20px;
 }
